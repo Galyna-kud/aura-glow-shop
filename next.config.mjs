@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  /* config options here */
+  // усі адреси сайту закінчуються слешем (/pro-nas/), як у старому сайті
+  trailingSlash: true,
 };
 
 export default nextConfig;

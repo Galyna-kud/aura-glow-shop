@@ -1,0 +1,121 @@
+{
+  "siteMenu": [
+    { "title": "Оплата і доставка", "href": "/oplata-i-dostavka/" },
+    { "title": "Про нас", "href": "/pro-nas/" },
+    { "title": "Обмін та повернення", "href": "/obmin-ta-povernennya/" },
+    { "title": "Блог", "href": "/bloh/" },
+    { "title": "Угода користувача", "href": "/privacypolicy/", "footerOnly": true },
+    { "title": "Відгуки про магазин", "href": "/store-reviews/" }
+  ],
+  "catalogMenu": [
+    {
+      "title": "Косметика",
+      "href": "/kosmetyka/",
+      "children": [
+        {
+          "title": "Догляд за обличчям",
+          "href": "/dohliad-za-oblychchiam/",
+          "children": [
+            { "title": "Крем для обличчя", "href": "/face-cream/" },
+            { "title": "Сироватка для обличчя", "href": "/syrovatka-dlia-oblychchia/" },
+            { "title": "Сироватка для контуру очей", "href": "/syrovatka-dlia-konturu-ochei/" },
+            { "title": "Антивікові засоби", "href": "/zasoby-vid-zmorshok/" },
+            { "title": "Для шкіри навколо очей", "href": "/dlia-shkiry-navkolo-ochei/" },
+            { "title": "Засоби для вмивання", "href": "/zasoby-dlia-vmyvannia/" },
+            { "title": "Масло та Олія для обличчя", "href": "/hidrofilna-oliia/" },
+            { "title": "Тонер-лосьйон для обличчя", "href": "/toner-dlia-oblychchia/" },
+            { "title": "Маски для шкіри обличчя", "href": "/masky-dlia-shkiry/" },
+            { "title": "Есенція для обличчя", "href": "/esentsiia-dlia-oblychchia/" },
+            { "title": "Гель для обличчя", "href": "/hel-dlia-oblychchia/" },
+            { "title": "Патчі", "href": "/patchi/" },
+            { "title": "Пілінг", "href": "/pilinh/" }
+          ]
+        },
+        { "title": "Догляд за порожниною рота", "href": "/dohliad-za-porozhnynoiu-rota/1101/" }
+      ]
+    },
+    {
+      "title": "Догляд за тілом",
+      "href": "/body-care/",
+      "children": [
+        { "title": "Сонцезахисний крем", "href": "/milk-face-cleanser/" },
+        { "title": "Крем для рук", "href": "/hand-cream/" },
+        { "title": "Гель для тіла", "href": "/hel-dlia-tila/" },
+        { "title": "Молочко для тіла", "href": "/milk-body-cleanser/" },
+        { "title": "Сіль для ванної", "href": "/bath-salt/" },
+        { "title": "Мазь для тіла", "href": "/maz-dlia-tila/" }
+      ]
+    },
+    {
+      "title": "Догляд за волоссям",
+      "href": "/hair-care/",
+      "children": [
+        { "title": "Маска для волосся", "href": "/maska-dlia-volossia/" },
+        { "title": "Шампунь", "href": "/shampoo/" },
+        { "title": "Сироватка для волосся", "href": "/syrovatka-dlia-volossia/" }
+      ]
+    },
+    {
+      "title": "Макіяж",
+      "href": "/makiiazh/",
+      "children": [
+        { "title": "Блиски для губ", "href": "/blysky-dlia-hub/" },
+        { "title": "Хайлайтери - Палетки", "href": "/khailaitery/" },
+        { "title": "Помада для губ", "href": "/pomada-dlia-hub/" },
+        { "title": "Рум'яна", "href": "/rumiana/" },
+        { "title": "Пудра", "href": "/pudra/" },
+        { "title": "Тональні засоби", "href": "/tonalnyi-krem/" },
+        { "title": "Бальзам для губ", "href": "/balzam-dlia-hub/" },
+        { "title": "Основа під макіяж Праймер", "href": "/osnova-pid-makiiazh-praimer/" },
+        { "title": "Фіксатор макіяжу", "href": "/fiksator-dlia-makiiazhu/" },
+        { "title": "Туш для вій", "href": "/tush-dlia-vii/" },
+        { "title": "Сироватка, Праймер", "href": "/syrovatka/" },
+        { "title": "Маска для губ", "href": "/maska-dlia-hub/" },
+        { "title": "Олівці ( очі, брови )", "href": "/olivtsi-dlia-ochei/" },
+        {
+          "title": "Аксесуари",
+          "href": "/aksesuary/",
+          "children": [
+            { "title": "Пензли ( Кісті )", "href": "/penzly-kisti/" },
+            { "title": "Дзеркальце", "href": "/zerkaltse/" },
+            { "title": "Кейси для кушону", "href": "/keisy-dlia-kushonu/" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Набори Косметики",
+      "href": "/nabory-kosmetyky/",
+      "children": [{ "title": "Для Обличчя", "href": "/dlia-oblychchia/" }]
+    },
+    {
+      "title": "Парфумерія",
+      "href": "/home/",
+      "children": [
+        { "title": "Чоловічі", "href": "/cholovichi/" },
+        { "title": "Жіноча", "href": "/zhinocha/" }
+      ]
+    },
+    {
+      "title": "Техніка і Аксесуари",
+      "href": "/tekhnika-i-aksesuary/",
+      "children": [
+        { "title": "Колонки", "href": "/portatyvna-kolonka/" },
+        { "title": "Набори для каліграфії", "href": "/nabory-dlia-kalihrafii/" },
+        { "title": "Дайвінг", "href": "/daivinh/" }
+      ]
+    },
+    {
+      "title": "Іграшки",
+      "href": "/ihrashky/",
+      "children": [
+        { "title": "Настільні ігри", "href": "/nastilni-ihry/" },
+        { "title": "Ігрові Фігурки", "href": "/ihrovi-fihurky/" },
+        { "title": "Водні пістолети та автомати", "href": "/vodni-pistolety-ta-avtomaty/" },
+        { "title": "Головоломки", "href": "/holovolomky/" },
+        { "title": "Конструктор", "href": "/konstruktory/" }
+      ]
+    },
+    { "title": "Бренди", "href": "/brands/" }
+  ]
+}

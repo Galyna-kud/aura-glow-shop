@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Догляд за обличчям",
+    "href": "/dohliad-za-oblychchiam/",
+    "image": "/images/pop-categories/categories1.webp",
+    "width": 110,
+    "height": 110
+  },
+  {
+    "title": "Сироватка для обличчя",
+    "href": "/syrovatka-dlia-oblychchia/",
+    "image": "/images/pop-categories/categories2.webp",
+    "width": 110,
+    "height": 109
+  },
+  {
+    "title": "Антивікові засоби",
+    "href": "/zasoby-vid-zmorshok/",
+    "image": "/images/pop-categories/categories3.webp",
+    "width": 83,
+    "height": 110
+  },
+  {
+    "title": "Догляд за тілом",
+    "href": "/body-care/",
+    "image": "/images/pop-categories/categories4.webp",
+    "width": 110,
+    "height": 110
+  },
+  {
+    "title": "Сонцезахисний крем",
+    "href": "/milk-face-cleanser/",
+    "image": "/images/pop-categories/categories5.webp",
+    "width": 83,
+    "height": 110
+  },
+  {
+    "title": "Техніка і Аксесуари",
+    "href": "/tekhnika-i-aksesuary/",
+    "image": "/images/pop-categories/categories6.webp",
+    "width": 73,
+    "height": 110
+  }
+]

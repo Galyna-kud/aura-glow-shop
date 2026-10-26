@@ -1,0 +1,31 @@
+{
+  "slider": [
+    {
+      "image": "banner1",
+      "alt": "Hourglass",
+      "href": "/limitovana-paletka-dlia-oblychchia-hourglass-ambient-lighting-edit-unlocked-deer-8.4-h/"
+    },
+    {
+      "image": "banner2",
+      "alt": "dior001",
+      "href": "/palitra-khailaiteriv-dlia-siaiva-oblychchia-dior-backstage-glow-face-palette-001-universal/"
+    },
+    { "image": "banner3", "alt": "флавер нау", "href": "/flower-knows/" },
+    { "image": "banner4", "alt": "СПФ", "href": "/milk-face-cleanser/" },
+    { "image": "banner5", "alt": "14 февраля" },
+    { "image": "banner6", "alt": "Banner from design" },
+    { "image": "banner7", "alt": "косм новий рівень" }
+  ],
+  "afterHits": [
+    {
+      "image": "banner8",
+      "alt": "MAC",
+      "href": "/pomada-dlia-hub-mac-matte-lipstick-velvet-teddy-matovaia-tekstura-ta-stiikyi-kolir-8-h/"
+    },
+    { "image": "banner9", "alt": "Крем від зморшок", "href": "/zasoby-vid-zmorshok/" }
+  ],
+  "afterSale": [
+    { "image": "banner10", "alt": "Shiseido ", "href": "/kosmetyka/filter/brand=115/" },
+    { "image": "banner11", "alt": "Колонки", "href": "/portatyvna-kolonka/" }
+  ]
+}

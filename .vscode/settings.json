@@ -1,0 +1,4 @@
+{
+  // shop.css — копія стилів старого сайту; префікси -webkit-* у ньому навмисні
+  "css.lint.vendorPrefix": "ignore"
+}

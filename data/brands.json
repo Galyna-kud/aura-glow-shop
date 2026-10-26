@@ -1,0 +1,170 @@
+[
+  {
+    "name": "GUERLAIN",
+    "href": "/guerlain/",
+    "logo": "/images/brand-logo/guerlain.webp",
+    "width": 180,
+    "height": 83
+  },
+  {
+    "name": "Kiehl's",
+    "href": "/kiehls/",
+    "logo": "/images/brand-logo/kiehls.webp",
+    "width": 180,
+    "height": 89
+  },
+  {
+    "name": "Anua",
+    "href": "/anua/",
+    "logo": "/images/brand-logo/anua.webp",
+    "width": 180,
+    "height": 81
+  },
+  {
+    "name": "La Roche-Posay",
+    "href": "/la-roche-posay/",
+    "logo": "/images/brand-logo/la-roche-posay.webp",
+    "width": 180,
+    "height": 55
+  },
+  {
+    "name": "Shiseido",
+    "href": "/shiseido/",
+    "logo": "/images/brand-logo/shiseido.webp",
+    "width": 180,
+    "height": 41
+  },
+  {
+    "name": "TIRTIR",
+    "href": "/tirtir/",
+    "logo": "/images/brand-logo/tirtir.webp",
+    "width": 180,
+    "height": 83
+  },
+  {
+    "name": "Estée lauder",
+    "href": "/estee-lauder/",
+    "logo": "/images/brand-logo/estee-lauder.webp",
+    "width": 180,
+    "height": 74
+  },
+  {
+    "name": "KAHI",
+    "href": "/kahi/",
+    "logo": "/images/brand-logo/kahi.webp",
+    "width": 180,
+    "height": 96
+  },
+  {
+    "name": "Flower Knows",
+    "href": "/flower-knows/",
+    "logo": "/images/brand-logo/flower-knows.webp",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "CHANEL",
+    "href": "/chanel/",
+    "logo": "/images/brand-logo/chanel.webp",
+    "width": 180,
+    "height": 120
+  },
+  {
+    "name": "D'Alba",
+    "href": "/dalba/",
+    "logo": "/images/brand-logo/dalba.webp",
+    "width": 180,
+    "height": 63
+  },
+  {
+    "name": "La Mer",
+    "href": "/la-mer/",
+    "logo": "/images/brand-logo/la-mer.webp",
+    "width": 180,
+    "height": 95
+  },
+  {
+    "name": "Cosrx",
+    "href": "/cosrx/",
+    "logo": "/images/brand-logo/cosrx.webp",
+    "width": 180,
+    "height": 83
+  },
+  {
+    "name": "BOBBI BROWN",
+    "href": "/bobbi-brown/",
+    "logo": "/images/brand-logo/bobbi-brown.webp",
+    "width": 170,
+    "height": 120
+  },
+  {
+    "name": "MEDICUBE",
+    "href": "/medicube/",
+    "logo": "/images/brand-logo/medicube.webp",
+    "width": 180,
+    "height": 76
+  },
+  {
+    "name": "SKIN1004",
+    "href": "/skin1004/",
+    "logo": "/images/brand-logo/skin1004.webp",
+    "width": 180,
+    "height": 74
+  },
+  {
+    "name": "VICHY",
+    "href": "/vichy/",
+    "logo": "/images/brand-logo/vichy.webp",
+    "width": 180,
+    "height": 70
+  },
+  {
+    "name": "Beauty of Joseon",
+    "href": "/beauty-of-joseon/",
+    "logo": "/images/brand-logo/beauty-of-joseon.webp",
+    "width": 180,
+    "height": 53
+  },
+  {
+    "name": "I’m From Rice",
+    "href": "/im-from-rice/",
+    "logo": "/images/brand-logo/im-from-rice.webp",
+    "width": 180,
+    "height": 108
+  },
+  {
+    "name": "M.A.C",
+    "href": "/m.a.c/",
+    "logo": "/images/brand-logo/m.a.c-brand.webp",
+    "width": 180,
+    "height": 75
+  },
+  {
+    "name": "BOKA",
+    "href": "/boka/",
+    "logo": "/images/brand-logo/boka.webp",
+    "width": 180,
+    "height": 49
+  },
+  {
+    "name": "Peter Thomas Roth",
+    "href": "/peter-thomas-roth/",
+    "logo": "/images/brand-logo/peter-thomas-roth.webp",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "CLARINS",
+    "href": "/clarins/",
+    "logo": "/images/brand-logo/clarins.webp",
+    "width": 180,
+    "height": 92
+  },
+  {
+    "name": "DIOR",
+    "href": "/dior/",
+    "logo": "/images/brand-logo/dior.webp",
+    "width": 180,
+    "height": 60
+  }
+]
