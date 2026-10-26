@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import Icon from "./Icon";
+import { CallbackButton } from "./CallbackModal";
 import navigation from "@/data/navigation.json";
 import { PHONE, VIBER } from "@/lib/contacts";
 
@@ -212,9 +213,7 @@ export default function MobileMenu() {
                 <Icon name="viber" />
                 {VIBER.label}
               </a>
-              <button type="button" className="m-menu__callback">
-                Передзвонити вам?
-              </button>
+              <CallbackButton className="m-menu__callback" onClick={close} />
             </div>
           </>
         )}

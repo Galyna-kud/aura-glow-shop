@@ -625,3 +625,125 @@
 .frontBrands-toggle.is-expanded .icon--arrow-down-light {
   transform: rotate(180deg);
 }
+
+/* Вікно «Передзвонити вам?» (components/CallbackModal) */
+.cb-modal {
+  box-sizing: border-box;
+  width: min(420px, calc(100% - 32px));
+  max-height: calc(100% - 32px);
+  padding: 0;
+  border: 0;
+  background: #fff;
+  color: #212121;
+  box-shadow: 0 5px 35px rgba(0, 0, 0, 0.35);
+}
+
+.cb-modal::backdrop {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.cb-modal__body {
+  position: relative;
+  padding: 32px 28px 28px;
+}
+
+.cb-modal__close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  padding: 6px;
+  border: 0;
+  background: none;
+  color: rgba(33, 33, 33, 0.7);
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.cb-modal__close:hover {
+  color: #212121;
+}
+
+.cb-modal__close .icon {
+  width: 18px;
+  height: 18px;
+}
+
+.cb-modal__title {
+  margin: 0 0 8px;
+  padding-right: 24px;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: left;
+}
+
+.cb-modal__desc {
+  margin: 0 0 20px;
+  color: #777;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.cb-form__item {
+  margin-bottom: 16px;
+}
+
+.cb-form__label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 14px;
+}
+
+.cb-form .field {
+  box-sizing: border-box;
+  width: 100%;
+  height: 42px;
+  padding: 8px 12px;
+}
+
+.cb-form__error {
+  margin-top: 4px;
+  color: #d32f2f;
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+.cb-form__error--submit {
+  margin: 0 0 16px;
+}
+
+.cb-form__error a {
+  color: inherit;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.cb-form__hp {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+}
+
+.cb-form__submit {
+  display: block;
+  width: 100%;
+  height: 46px;
+  border: 1px solid #f1e6d8;
+  background: #f1e6d8;
+  color: #212121;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.cb-form__submit:hover,
+.cb-form__submit:focus-visible {
+  background: #e6d3bc;
+  border-color: #e6d3bc;
+}
+
+.cb-form__submit:disabled {
+  opacity: 0.6;
+  cursor: default;
+}

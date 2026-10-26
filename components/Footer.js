@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Icon from "./Icon";
+import { CallbackButton } from "./CallbackModal";
 import navigation from "@/data/navigation.json";
 
 export default function Footer() {
@@ -85,9 +86,7 @@ export default function Footer() {
                         077 300-33-30
                       </a>
                     </div>
-                    <button className="btn __as-link footer__link" type="button">
-                      Передзвонити вам?
-                    </button>
+                    <CallbackButton className="btn __as-link footer__link" />
                   </div>
                   <div className="footer__contacts-group">
                     <div className="footer__contacts-item">

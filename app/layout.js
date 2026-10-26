@@ -2,6 +2,7 @@ import "./shop.css";
 import "./custom.css";
 import "./mobile.css";
 import IconSprite from "@/components/IconSprite";
+import CallbackModal from "@/components/CallbackModal";
 
 export const metadata = {
   title: { default: "Aura Glow", template: "%s — Aura Glow" },
@@ -29,6 +30,7 @@ export default function RootLayout({ children }) {
         </a>
         <div className="session-messages" id="j-sm" style={{ display: "none" }}></div>
         {children}
+        <CallbackModal />
         <div className="sr-only" aria-live="polite" aria-atomic="true" id="a11y-announcer"></div>
         <div id="modal-overlay" className="overlay"></div>
       </body>

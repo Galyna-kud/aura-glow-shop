@@ -2,6 +2,7 @@ import Link from "next/link";
 import Icon from "./Icon";
 import HoverTooltip from "./HoverTooltip";
 import MobileMenu from "./MobileMenu";
+import { CallbackButton } from "./CallbackModal";
 import navigation from "@/data/navigation.json";
 import { PHONE } from "@/lib/contacts";
 
@@ -88,9 +89,7 @@ function Phones() {
               </div>
             </div>
             <div className="phones__callback">
-              <button className="btn __as-link phones__callback-link" type="button">
-                Передзвонити вам?
-              </button>
+              <CallbackButton className="btn __as-link phones__callback-link" />
             </div>
           </div>
         </div>
